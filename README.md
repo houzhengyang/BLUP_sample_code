@@ -1,12 +1,12 @@
 # BLUP_sample_code
 Supplementary to "Remote sensing-assisted data assimilation and simultaneous inference for forest inventory"
 
-20190809 BLUP code with a sample implementation
+# 20190809 BLUP code with a sample implementation
 
-Written by: 
+# Written by: 
 Drs. Zhengyang Hou, Lauri Mehtatalo, Ronald E. McRoberts, Goran Stahl, Parvez Rana, Jouni Siipilehto, Timo Tokola, Qing Xu 
 
-NOTE: 
+# Note: 
 (1) This is a supplementary material for the paper: 
      << Remote sensing-assisted data assimilation and simultaneous inference for forest inventory >>
      published at the Remote Sensing of Environment, completed by the same group of authors.
